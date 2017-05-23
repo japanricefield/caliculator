@@ -44,7 +44,7 @@ int main(void) {
                 num[h+1]=str[h];//  ASCII codeに変換
             }
         }
-        for(int i = 0; i <90; i ++){//文字の読み込み
+        for(int i = 0; i <900; i ++){//文字の読み込み
             if(mode==2&&i==0){//引き継ぎモードの時の処理
                 i++;
             }
